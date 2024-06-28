@@ -5,8 +5,10 @@ vendor/
 .idea
 psysh
 .phpunit.result.cache
+.phpunit.cache
 phpunit_var_*.xml
 coverage/
 clover.xml
 tests/Etc/tmp/queuetest.json
 docker-compose.override.yml
+.DS_Store
